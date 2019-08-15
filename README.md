@@ -1,7 +1,6 @@
 # R-Ladies Manchester Meet-up presentations 
 
-insert image 
-
+[](images/rladiesmcr-screen.png)
 
 # 2019
 ## August
