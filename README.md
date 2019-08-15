@@ -1,6 +1,6 @@
 # R-Ladies Manchester Meet-up presentations 
 
-![](images/rladiesmcr-screen.png){:height="36px" width="36px"}
+<img src="https://github.com/rladies/meetup-presentations_manchester/blob/master/images/rladiesmcr-screen.png" width="250"/>
 
 # 2019
 ## August
