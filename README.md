@@ -1,4 +1,4 @@
-<img src="https://github.com/rladies/meetup-presentations_manchester/blob/master/images/rladiesmcr-screen.png" width="250" align="middle"/>
+<img src="https://github.com/rladies/meetup-presentations_manchester/blob/master/images/rladiesmcr-screen.png" width="250" class="center"/>
 
 # R-Ladies Manchester Meet-up presentations 
 
