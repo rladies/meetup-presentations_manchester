@@ -2,16 +2,15 @@
 
 # R-Ladies Manchester
 
-R-Ladies Manchester founded in December 2016
+R-Ladies Manchester was founded in December 2016
   
   Current team of organizers: Ellen Talbot (@etalbot1291) and Bethan Blakeley (@HoneycombBethan)
   
-  Send us an e-mail at *ellen@rladies.org*
-  for further information!
+  Send us an e-mail at *ellen@rladies.org* for further information!
   
-  Keep updated about upcoming [Meetup-Session](https://www.meetup.com/rladies-manchester/)
+  Keep updated about upcoming [events](https://www.meetup.com/rladies-manchester/)
   
-  Join us on twitter *(@rladiesmcr)*
+  Join us on twitter **(@rladiesmcr)**
   
 
 ## R-Ladies Manchester Meet-up presentations 
